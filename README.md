@@ -18,7 +18,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayla-stack&layout=compact&theme=tokyonight)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=708238&height=150&section=header&text=Happy%20Coding!%20🍵&fontSize=40&animation=fadeIn)
 
 ---
 

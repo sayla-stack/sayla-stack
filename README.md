@@ -6,7 +6,7 @@
 
 ## 💫 About Me
 - 🔭 I’m currently learning the magic of **HTML, CSS, and JavaScript**.
-- 🍵 Huge fan of **Matcha Latte** (no sugar, please!).
+- 🍵 Huge fan of **Matcha Latte** 
 - 🌍 Dream destination: **Exploring every corner of the world.**
 - 💻 Fun fact: I love it when my code works on the first try (it's rare, but magical!).
 
